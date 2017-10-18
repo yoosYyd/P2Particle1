@@ -1,6 +1,3 @@
-// P2Particle1.cpp: определяет точку входа для консольного приложения.
-//
-
 #include "stdafx.h"
 #pragma warning(disable : 4996)
 
